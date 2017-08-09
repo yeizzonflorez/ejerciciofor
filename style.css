@@ -1,0 +1,12 @@
+.container{
+  margin: auto;
+color: #00BCD4;
+  text-align: center;
+  background: #ccc;
+  font-family: inherit;
+  width: 50%;
+  height: 50%;
+  margin-top: 10%;
+  padding: 10px;
+  font-size: 30px;
+}
